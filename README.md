@@ -13,7 +13,7 @@
 
 ### Omarchy
 
-I've been experimenting with the Omarchy Linux distro, this documents my exeriences.
+I've been experimenting with the Omarchy Linux distro, this documents my experiences.
 
 <https://github.com/richardlucas761/Omarchy>
 
