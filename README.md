@@ -35,7 +35,7 @@ Coding challenges I've completed if you're looking for public examples of my cod
 
 ### SQL Server scripts
 
-SQL scripts that I've found useful.
+SQL scripts I've found useful.
 
 <https://github.com/richardlucas761/SQLScripts>
 
