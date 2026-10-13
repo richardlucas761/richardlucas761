@@ -12,12 +12,6 @@
 
 *In no particular order.*
 
-### Omarchy
-
-I've been experimenting with the Omarchy Linux distro, this documents my experiences.
-
-<https://github.com/richardlucas761/Omarchy>
-
 ### React
 
 I've been learning React by working through the <https://www.theodinproject.com> and the official training.
